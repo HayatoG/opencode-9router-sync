@@ -1,0 +1,28 @@
+{
+  "name": "opencode-9router-sync",
+  "version": "0.1.0",
+  "description": "Plugin do opencode que sincroniza os modelos do 9router a partir do /v1/models",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "9router",
+    "llm",
+    "models"
+  ],
+  "author": "Guilherme Oliveira <guilherme.ryders@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HayatoG/opencode-9router-sync.git"
+  },
+  "homepage": "https://github.com/HayatoG/opencode-9router-sync#readme",
+  "bugs": {
+    "url": "https://github.com/HayatoG/opencode-9router-sync/issues"
+  }
+}
